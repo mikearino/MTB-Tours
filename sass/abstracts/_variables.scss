@@ -22,3 +22,12 @@ $default-font-size: 1.6rem;
 $grid-width: 114rem;
 $gutter-vertical: 8rem;
 $gutter-horizontal: 6rem;
+
+//BOX-SHADOW
+$shadow-0: 0 0.5rem 1rem rgba($color-black, 0.15);
+$shadow-0-darker: 0 0.5rem 1rem rgba($color-black, 0.2);
+$shadow-1: 0 1rem 2rem rgba($color-black, 0.15);
+$shadow-1-darker: 0 1rem 2rem rgba($color-black, 0.2);
+$shadow-2: 0 1.5rem 4rem rgba($color-black, 0.15);
+$shadow-2-darker: 0 1.5rem 4rem rgba($color-black, 0.4);
+$shadow-3: 0 2.5rem 4rem rgba($color-black, 0.5);
