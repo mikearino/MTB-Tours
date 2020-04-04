@@ -371,7 +371,14 @@ body {
     color: white;
     text-transform: uppercase;
     font-size: 1.7rem;
-    text-align: center; }
+    text-align: center;
+    opacity: 0;
+    transition: all 0.5s;
+    backface-visibility: hidden; }
+  .story:hover .story__caption {
+    opacity: 1;
+    transform: translate(-50%, -50%);
+    color: white; }
 
 .row {
   max-width: 114rem;
