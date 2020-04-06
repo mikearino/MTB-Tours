@@ -329,7 +329,7 @@ body {
     .composition__photo:hover {
       outline: 1.5rem solid #55c57a;
       transform: scale(1.05) translateY(-0.5rem);
-      box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, 0.5);
+      box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
       z-index: 1; }
   .composition:hover .composition__photo:not(:hover) {
     transform: scale(0.85); }
@@ -479,4 +479,6 @@ body {
 .book {
   background-image: url(../img/nat-10.jpg);
   background-size: 100%;
+  border-radius: 3px;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
   height: 50rem; }
