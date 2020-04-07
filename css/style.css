@@ -61,7 +61,7 @@ body {
   font-weight: 400;
   /* font-size: 16px; */
   line-height: 1.7;
-  color: #777;
+  color: #999;
   padding: 3rem; }
 
 .heading-primary {
@@ -165,7 +165,7 @@ body {
 
 .btn--white {
   background-color: white;
-  color: #777; }
+  color: #999; }
   .btn--white::after {
     background-color: white; }
 
@@ -360,7 +360,10 @@ body {
   padding: 1.5rem 2rem;
   border-radius: 2px;
   background-color: rgba(255, 255, 255, 0.5);
-  border: none; }
+  border: none;
+  border-bottom: 3px solid transparent;
+  width: 90%;
+  display: block; }
 
 .form__input:focus {
   outline: none;
