@@ -597,8 +597,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-align: center;
-  z-index: 7; }
+  text-align: center; }
 
 .navigation__item {
   margin: 1rem; }
