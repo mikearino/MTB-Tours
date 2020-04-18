@@ -438,7 +438,11 @@ body {
     width: 75%;
     height: 50rem;
     background-color: white;
-    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2); }
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    border-radius: 3px; }
+  .popup__img {
+    display: block;
+    width: 100%; }
 
 .story {
   width: 75%;
