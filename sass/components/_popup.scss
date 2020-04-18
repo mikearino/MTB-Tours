@@ -1,2 +1,12 @@
 .popup {
+  background-color: $color-black;
+  padding: 40rem 0;
+  position: relative;
+  text-align: center;
+
+  &__content {
+    background-color: $color-white;
+    padding: 30% 40%;
+    display: inline-block;
+  }
 }
