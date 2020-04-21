@@ -609,7 +609,8 @@ body {
   background-size: cover;
   background-position: center;
   position: relative;
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%); }
+  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+  z-index: 3; }
   .header__logo-box {
     position: absolute;
     top: 4rem;
