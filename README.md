@@ -1,4 +1,4 @@
-# 2 Wheels Mountain Bike Tours :bike:
+# 2 Wheels Mountain Bike Tours  :bike:
 
 #### A web app built with pure CSS that showcases a mockup touring website
 
