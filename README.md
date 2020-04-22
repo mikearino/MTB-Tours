@@ -27,5 +27,3 @@ If there are any questions, bugs or concerns, please contact mikeylofgren@gmail.
 ### License
 
 _This software is licensed under the MIT license_
-
-Copyright (c) 2020 **Mike Lofgren**
