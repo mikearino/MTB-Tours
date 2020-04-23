@@ -1,4 +1,4 @@
-# 2 Wheels Mountain Bike Tours :bicycle:
+# 2 Wheels Mountain Bike Tours  :bike:
 
 #### A web app built with pure CSS that showcases a mockup touring website
 
@@ -8,7 +8,7 @@
 
 ## Setup/Installation Requirements
 
-Follow the link to:
+Follow the link to: https://dreamy-galileo-7ce54d.netlify.app/
 
 ## Known Bugs
 
