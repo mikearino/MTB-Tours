@@ -27,3 +27,16 @@
     @content;
   }
 }
+
+/*
+$breakpoint argument choices:
+- phone
+- tab-port
+- tab-land 
+- big-desktop
+*/
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == phone {
+  }
+}
