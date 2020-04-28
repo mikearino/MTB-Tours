@@ -1,4 +1,4 @@
-# 2 Wheels Mountain Bike Tours  :mountain_bicyclist::paw_prints::sunglasses:
+# 2 Wheels Mountain Bike Tours :mountain_bicyclist::paw_prints::sunglasses:
 
 #### A web app built with pure CSS that showcases a mockup touring website. Page is desktop first and in the process of becoming optimized for mobile :blush:
 
@@ -19,6 +19,9 @@ Follow the link to: https://dreamy-galileo-7ce54d.netlify.app/
 - Sass
 - HTML
 - CSS
+- VSCode
+- Live-Server
+- Git
 
 ## Support and contact details
 
