@@ -6,7 +6,7 @@
     box-shadow: $shadow-2-darker;
     border-radius: 2px;
     position: absolute;
-    z-index: 0;
+    z-index: 1;
     transition: all 0.2s;
     outline-offset: 2rem;
     &--p1 {
