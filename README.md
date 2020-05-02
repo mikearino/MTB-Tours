@@ -1,6 +1,6 @@
 # 2 Wheels Mountain Bike Tours :mountain_bicyclist::paw_prints::sunglasses:
 
-#### A web app built with pure CSS that showcases a mockup touring website. Page is desktop first and in the process of becoming optimized for mobile :blush:
+#### A web app built with pure CSS that showcases a mockup touring website.
 
 ## Description
 
