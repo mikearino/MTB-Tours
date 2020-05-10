@@ -7,12 +7,13 @@
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "concat:css": ""
+    "concat:css": "concat -o css/style.concat.css css/icon-font.css css/style.comp.css"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "concat": "^1.0.3",
     "node-sass": "^4.13.1"
   }
 }
